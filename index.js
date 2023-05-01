@@ -3,4 +3,9 @@ const take = n => n - 10;
 
 // from branch: develop1 Clone
 
-// delete functions
+
+// this function was created in develop1 origin
+
+function fn2(n) {
+  return n * 5;
+};
