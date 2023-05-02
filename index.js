@@ -20,3 +20,8 @@ function fn1(n) {
 function random1(num1) {
   return num1;
 };
+
+
+function random2(num2) {
+  return num2;
+};
