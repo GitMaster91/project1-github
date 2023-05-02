@@ -15,3 +15,8 @@ function fn2(t) {
 function fn1(n) {
   return n;
 };
+
+
+function random1(num1) {
+  return num1;
+};
