@@ -27,3 +27,14 @@ function random1(num1) {
 function random2(num2) {
   return num2;
 };
+
+const user = {
+  name: 'Luis',
+  age: 32
+};
+
+const functionDevelop1 = ( u ) => {
+  return u.name;
+};
+
+console.log(functionDevelop1(user))
