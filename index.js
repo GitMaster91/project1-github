@@ -1,5 +1,9 @@
 // Clean B
 
+function fn4(m) {
+  return m;
+};
+
 function fn3(r) {
   return r;
 };
