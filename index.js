@@ -4,3 +4,5 @@ const factor = n => n * 100;
 const add  = n => n + 100;
 const take = n => n - 10;
 const remove = n => n - 9;
+
+console.log('2 commit')
