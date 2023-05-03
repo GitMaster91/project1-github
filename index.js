@@ -27,3 +27,9 @@ function random1(num1) {
 function random2(num2) {
   return num2;
 };
+
+
+const obj1 = {
+  price: 500,
+  country: 'MEX'
+};
