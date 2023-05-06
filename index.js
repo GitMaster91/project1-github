@@ -40,6 +40,7 @@ const functionDevelop1 = ( u ) => {
 console.log(functionDevelop1(user))
 
 console.log('develop1');
+console.log('develop2');
 
 
 const sum1 = a => a + 10;
