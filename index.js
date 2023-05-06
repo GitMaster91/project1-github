@@ -60,3 +60,7 @@ const obj2 = {
   key1: '1',
   key2: '2'
 };
+
+const mainFnDevelop = obj => {
+  return { ...obj, key1: 1 };
+};
