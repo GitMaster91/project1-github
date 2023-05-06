@@ -54,3 +54,8 @@ const obj1 = {
   key1: '1',
   key2: '2'
 };
+
+const obj2 = {
+  key1: '1',
+  key2: '2'
+};
