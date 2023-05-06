@@ -44,3 +44,4 @@ console.log('develop1');
 
 const sum1 = a => a + 10;
 const sum2 = b => b + 10;
+const sum3 = c => c + 10;
