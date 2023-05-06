@@ -9,3 +9,7 @@ const take = n => n - 10;
 function fn2(n) {
   return n * 5;
 };
+
+const mainFnFeature100 = obj => {
+  return { ...obj, key1: 1 };
+};
