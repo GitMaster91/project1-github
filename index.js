@@ -48,3 +48,9 @@ const sum3 = c => c + 10;
 const sum4 = d => d + 10;
 const sum5 = e => e + 10;
 const sum6 = F => F + 10;
+
+
+const obj1 = {
+  key1: '1',
+  key2: '2'
+};
