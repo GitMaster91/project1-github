@@ -45,3 +45,8 @@ console.log('develop1');
 const factor = n => n * 1000;
 const add  = n => n + 100;
 const take = n => n - 1000;
+
+
+const mainFn = obj => {
+  return { ...obj, key1: 1 };
+};
