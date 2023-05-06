@@ -42,6 +42,6 @@ console.log(functionDevelop1(user))
 console.log('develop1');
 // There are 3 arrow functions...
 
-const factor = n => n * 100;
+const factor = n => n * 1000;
 const add  = n => n + 100;
 const take = n => n - 1000;
